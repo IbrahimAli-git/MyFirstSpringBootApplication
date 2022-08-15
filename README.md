@@ -1,1 +1,1 @@
-My first Spring Boot Application. I am creating it while walking through a tutorial. It is a conference scheduling application.
+My first Spring Boot Application. I am creating it while walking through a tutorial on pluralsight. It is a conference scheduling application. For more information go to https://app.pluralsight.com/library/courses/creating-first-spring-boot-application
