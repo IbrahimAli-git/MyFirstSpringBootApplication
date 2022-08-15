@@ -1,0 +1,1 @@
+My first Spring Boot Application. I am creating it while walking through a tutorial. It is a conference scheduling application.
